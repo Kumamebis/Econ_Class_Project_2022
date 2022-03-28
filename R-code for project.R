@@ -17,7 +17,7 @@ getwd()
 setwd("C:/Users/Student/Desktop") 
 
 
-fredr_set_key("9c21b9c871b6a01e1c6ac66c17d399c8")
+fredr_set_key("your own API key")
 
 # This command calls the  initial unemployment claims from 2018 to 2022
 fredr(
