@@ -1,1 +1,1 @@
-# FRED data series access code
+# FRED data series access method
