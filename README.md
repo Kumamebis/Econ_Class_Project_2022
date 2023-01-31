@@ -1,8 +1,4 @@
 # class_project
-trial project for 6290
-Here is my contribution
-
-
-
-setwd ("C:/Users/chris/Desktop/Research Methods Econ6290/2022/week_7")
+trial project for research methods 6290
+Here is my contribution as a teaching assistant for this course.
 
