@@ -1,6 +1,7 @@
 # ##############################
 # Econ 6290 Research Methods summer 2022
-# Dr. Christine Moser
+# Dr. Christine Moser, Professor
+#Kumadebis Gemechu, TeachinG Assistant
 # 
 # automating data downloads using APIs 
 ####################################
